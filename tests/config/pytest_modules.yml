@@ -1832,6 +1832,10 @@ variantbam:
   - modules/variantbam/**
   - tests/modules/variantbam/**
 
+vartrix:
+  - modules/vartrix/**
+  - tests/modules/vartrix/**
+
 vcfanno:
   - modules/vcfanno/**
   - tests/modules/vcfanno/**
